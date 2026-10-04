@@ -3,3 +3,4 @@ Creating, Modeling and Simulating a Robotic Pick and Place Arm. First Starting w
 ## Team Members
 PRATEEKVEL S B
 TUHIN B
+ARUL PRASANNA P
